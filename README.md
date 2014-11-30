@@ -1,4 +1,5 @@
 My-first-repo
 =============
 
-My firsto repository on GitHub
+My first repository on GitHub
+Brazilian guy, 20, and working to be a Rockstar :)
